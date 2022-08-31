@@ -1,9 +1,9 @@
 ---
 layout: page
 title: project
-description: DigiSwitch. Digitalized railway switches for the future 
-img: assets/img/Digiswitch.png
-redirect: https://www.ltu.se/centres/jvtc/Projekt/Pagaende-projekt/The-digital-railway-switch-Digitalized-railway-switches-for-the-future-DigiSwitch-1.198563?l=en
+description: Development of an ultrasonic testing technique to characterise diffusion bonds in layered structures. EU Seventh Framework Programme
+img: assets/img/BONDTEST.png
+redirect: https://cordis.europa.eu/project/id/605288
 importance: 1
 category: work
 ---
