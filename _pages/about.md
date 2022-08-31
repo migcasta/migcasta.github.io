@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <b>Ph.D. </b> Data Scientist and Artificial intelligence Generalist. 
+subtitle:  <b>Ph.D. </b>  <br> <b>Data Scientist and Artificial intelligence Generalist. </b>
 
 profile:
   align: right
