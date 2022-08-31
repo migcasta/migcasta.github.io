@@ -1,9 +1,9 @@
 ---
 layout: page
-title: OPTi. EU Project
-description: Optimization of District Heating & Cooling Systems
-img: assets/img/OPTi_logo_small.png
-redirect: https://www.opti2020.eu/
+title: project 3
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://unsplash.com
 importance: 3
 category: work
 ---
@@ -16,9 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: OPTi. EU Project
-    description: Optimization of District Heating & Cooling Systems
-    img: assets/img/OPTi_logo_small.png
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">
