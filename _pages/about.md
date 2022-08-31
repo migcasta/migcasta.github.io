@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <p>Ph.D.  Data Scientist and Artificial intelligence Generalist </p> 
+subtitle:  <b>Ph.D. </b> Data Scientist and Artificial intelligence Generalist. 
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A strong passion for data science drives me to extract value from data and use it in real life situations. 
+I have a strong passion for data science both in work and in personal life. I strive to see how to extract value from data and use it in real life situations. 
 
 In one of my pet projects I used the data from a GPS-tracker to create behavioral models of my cat,  and I used the models to detect/predict abnormal behavior, to estimate arrival times, to predict most likely ruts, and so on. I used methods such as  density-based clustering and Markov Chains. 
 
