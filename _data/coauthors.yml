@@ -33,6 +33,20 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"Sina":
-  - firstname: ["Sina Sharif Mansouri"]
+"Mansouri":
+  - firstname: ["Sina Sharif"]
     url: https://scholar.google.com/citations?user=YhvNXEkAAAAJ&hl=en
+
+"Birk":
+  - firstname: ["Wolfgang"]
+    url: https://scholar.google.com/citations?user=Ov_IRUwAAAAJ&hl=en
+
+"Johansson":
+  - firstname: ["Andreas"]
+    url: https://scholar.google.se/citations?user=q4OprNQAAAAJ&hl=en
+
+"Nikolakopoulos":
+  - firstname: ["George"]
+    url: http://www.gnikolak.com/
+
+
