@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project
+title: CatWalk
 description: Modeling pet behavior during unsupervised walks using a GPS tracker on a domestic cat
 img: assets/img/publication_preview/CatWalkThumb.png
 importance: 1

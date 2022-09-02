@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project
+title: OPTi
 description: Optimization of District Heating & Cooling Systems. EU project
 img: assets/img/OPTi_logo_small.png
 redirect: https://www.opti2020.eu/

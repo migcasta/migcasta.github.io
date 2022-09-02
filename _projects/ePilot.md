@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project
-description: ePilot. A collaboration platform that enables innovations for the rail ecosystem within eMaintenance and Industrial AI. Awarded in the 2021 list of The Royal Swedish Academy of Engineering Sciences
+title: ePilot
+description: A collaboration platform that enables innovations for the rail ecosystem within eMaintenance and Industrial AI. Awarded in the 2021 list of The Royal Swedish Academy of Engineering Sciences
 img: assets/img/ePilot.png
 redirect: https://www.ltu.se/research/subjects/Drift-och-underhall/Forskningsprojekt/ePilot?l=en
 importance: 7

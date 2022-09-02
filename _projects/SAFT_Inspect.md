@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project
+title: SAFT_Inspect
 description: Ultrasonic Inspection Solution for railway crossing points. EU Horizon 2020
 img: assets/img/SAFT_Inspect.png
 redirect: https://cordis.europa.eu/project/id/709444

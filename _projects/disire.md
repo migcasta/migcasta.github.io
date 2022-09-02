@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project
-description:  Integrated Process Control based on Distributed In-Situ Sensors into Raw Material and Energy Feedstock. EU project
+title: DISIRE
+description:  Integrated Process Control based on Distributed In-Situ Sensors into Raw Material and Energy Feedstock.  EU project
 img: assets/img/disire-projectlogo.png
 redirect: https://www.aspire2050.eu/disire
 importance: 4

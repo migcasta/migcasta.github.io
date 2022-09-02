@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project
-description: MIGS. Laser scans for determining mine stability
+title: MIGS 
+description: Laser scans for determining mine stability
 img: assets/img/MIGS.png
 importance: 1
 category: work
