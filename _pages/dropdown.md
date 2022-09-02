@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: hobbies
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Rubik
+      permalink: /rubik/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: skating
+      permalink: /skating/
 ---
