@@ -5,7 +5,7 @@ permalink: /products/
 description: My work and personal products
 nav: true
 nav_order: 2
-display_categories: [control theory methods, process models]
+display_categories: [prototypes and tools, control theory methods, process models]
 horizontal: false
 ---
 

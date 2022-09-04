@@ -60,3 +60,27 @@
 "Pourkamali Anaraki":
   - firstname: ["Farhad"]
     url: https://scholar.google.com/citations?user=NB2B59cAAAAJ&hl=en
+
+"Al Chalabi": 
+  - firstname: ["Hussan"]
+    url:     https://scholar.google.se/citations?user=PwudBcUAAAAJ&hl=sv
+
+"Gustafson": 
+  - firstname: ["Anna"]
+    url:         https://scholar.google.com/citations?hl=sv&user=AZ9ge_YAAAAJ&view_op=list_works&sortby=pubdate
+
+"Kanellakis":  
+  - firstname: ["Christoforos"]
+    url:         https://scholar.google.se/citations?user=GaqjdfoAAAAJ&hl=en
+
+"Patwardhan":  
+  - firstname: ["Amit"]
+    url:         https://www.ltu.se/staff/a/amipat-1.121105?l=en
+
+"Thaduri":  
+  - firstname: ["Adithya"]
+    url:    https://scholar.google.com/citations?user=goTqTCQAAAAJ&hl=en
+
+"Kumari":  
+  - firstname: ["Jaya"]
+    url:    https://www.ltu.se/staff/j/jaykum-1.190156?l=en
