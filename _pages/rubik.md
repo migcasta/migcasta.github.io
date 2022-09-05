@@ -1,16 +1,20 @@
 ---
 layout: page
-title: Rubik
-permalink: /rubik/
+title: Teaching Experience
+permalink: /TeacherPortfolio/
 nav: false
 ---
 
-Did you know that most people can solve their first cube within 2 hours by just following a manual? After that, if you get hooked, it is an endless spiral. You try to beat your best times, you solve it one-handed, blindfolded, learn party tricks, solve larger cubes with more pieces, and so on ... An you realize taht you can do most of the practice by just spinning your cube along your day without dedicating explicit time to the hobby. Next thing you know is that you carry a cube everywhere with you. 
+<h1> Ph.D. Supervision </h1>
+<h2> Amit Patwardhan </h2>
+Licentiate Thesis: <a href="http://ltu.diva-portal.org/smash/record.jsf?pid=diva2%3A1690074&dswid=-5227"> Enablement of digital twins for railway overhead catenary system </a>
+¨
+<h2> Jaya Kumari </h2>
+Licentiate Thesis: <a href="https://www.diva-portal.org/smash/get/diva2:1653801/FULLTEXT02.pdf"> Augmented Asset Management of Railway System Empowered by Industrial AI
 
-Cubing is a very rewarding hobby which also fills a lot of gaps in your daily life. It is great if you have kids, as you are likely to spend time sitting on a bench at a park. It also works great for relieving stress since it has a large component of fidgeting. 
+<h2> Ali Kadhim </h2>
 
-My most recent achievement is to solve Rubik's cube blindfolded using Old Pochmann's mehtod. I am still practicing and I can consistently solve it 2 out of 3 times. After you memorize the cube and put the blindfold, it takes more than 500 moves to solve it. So it is really easy to mess it up. 
 
-Here is a video of my first blindfolded solve. 
+<h1> Master's Thesis Supervision </h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WnCCXVIsIAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
