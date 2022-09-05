@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <b>Ph.D. </b>  <br> <b>Data Scientist and Artificial intelligence Generalist. </b>
+subtitle:  <b>Ph.D. </b>  <br> <b>Data Scientist and Artificial intelligence Generalist </b>
 
 profile:
   align: right
@@ -18,10 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have a strong passion for data science both in work and in personal life. I strive to see how to extract value from data and use it in real life situations. 
+I have a strong passion for data science both in work and in personal life. I strive to create value from data and use it in real life situations. 
 
-Check my pet projects in the "Fun" section of the tab "projects". In one of my pet projects I used the data from a GPS-tracker to create behavioral models of my cat. 
+ Check my "work" and "fun" [projects](/projects/). 
+ 
+ My work projects include a variety of industries such as pulp & paper, mining, steel production, district heating, railway (infrastructure and rolling stock), military air fleets, hauling vehicles, HVAC systems, NDT ultrasonic testing, and cybersecurity.
+ 
+  My pet projects resolve creative problems which I find in my daily life, such as the use of a GPS-tracker to create behavioral models of my cat. 
 
-Check my many work projects under the "work" section of the tab "projects".
+I've had major participation in a variety of  [products, innovations and tools](/products/). These relate e.g. to computer vision, LIDAR processing, design of industrial control systems,  ultrasonic NDT,  and data quality analytics.  
 
 
+I'm proud of my hobbies, which are based on striving for incremental improvements and which challenge me both physically and mentally. Don't ask me about any of them or I will try to hook you in. 
