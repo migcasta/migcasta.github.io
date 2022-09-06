@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I have a strong passion for data science both in work and in personal life. I strive to create value from data and use it in real life situations. 
 
- Check my "work" and "fun" [projects](/projects/). 
+ Check my "work" and "fun" [projects](/projects/) for more information on my expertise. As alternative, you may check my [keywords](/keywords/) . 
  
  My work projects include a variety of industries and applications such as pulp & paper, mining, steel production, district heating, railway (infrastructure and rolling stock), military air fleets, hauling vehicles, HVAC systems, NDT ultrasonic testing, and cybersecurity.
  
