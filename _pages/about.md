@@ -22,7 +22,7 @@ I have a strong passion for data science both in work and in personal life. I st
 
  Check my "work" and "fun" [projects](/projects/). 
  
- My work projects include a variety of industries such as pulp & paper, mining, steel production, district heating, railway (infrastructure and rolling stock), military air fleets, hauling vehicles, HVAC systems, NDT ultrasonic testing, and cybersecurity.
+ My work projects include a variety of industries and applications such as pulp & paper, mining, steel production, district heating, railway (infrastructure and rolling stock), military air fleets, hauling vehicles, HVAC systems, NDT ultrasonic testing, and cybersecurity.
  
   My pet projects resolve creative problems which I find in my daily life, such as the use of a GPS-tracker to create behavioral models of my cat. 
 
