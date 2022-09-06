@@ -19,9 +19,18 @@ SIMULATION
 
 State Machines, Petri Nets, game theory, Markov Chains, 
 
+ASSETS AMD INFRASTRUCTURE
+
+Rolling stock, off-road trucks, catenary infrastructure, railway track, railway crossings, pulp refiners, stock preparation plant, bark boiler, secondary heating systems, rotary air heat exchangers, mining drill rigs, HVAC systems
+
+
 MACHINE LEARNING & AI
 
-Explainable Learning, Expert Systems, 
+Explainable Learning, Expert Systems,  algorithms, big data, data-driven decission making, data analytics, Natural Language Processing (NLP)
+
+
+Augmented Reality (AR), Virtual Reality (VR)
+
 
 UNSUPERVISED LEARNING
 
@@ -31,12 +40,19 @@ SUPERVISED LEARNING
 
 regression, neural networks, support vector machines
 
+NEURAL NETWORKS
+deep learning, multi-layer perceptron, transfer learning, convolutional neural networks (CNN), neural encoders-decoders,  dataset augmentation, data morphing, query by context, 
+
 SIGNAL PROCESSING
 
-LIDAR processing, Ultrasound processing, GPS processing, time-series processing, image processing, frequency domain analysis (wavelets, fourier, ...), stochastic signals, estimation theory.
+LIDAR processing, 2D point clouds, 3D point clouds, Ultrasound processing, GPS processing, time-series processing, image processing, frequency domain analysis (wavelets, fourier, ...), stochastic signals, estimation theory, data mining, big data, 
 
 MATHEMATICS
+differential equations, partial differential equations (PDE), linearization, Volterra Series, statistical analysis
 
+TensorFlow, Azure, 
+
+Python, SQL, html, MATLAB, Octave, C++, 
 
 
 OPTIMIZATION
@@ -47,9 +63,17 @@ CONTROL ENGINEERING
 
 LTI systems, PID, Input-Output Selection, Control Structure Selection, Control Configuration Selection,  Multivariable Control, Non-linear Control, Kalman Filtering, System Identification in Time Domain, System Identification in Frequency Domain, Non-linear System Identification, Large-scale processes, Robust Control, Non-linear Control, MATLAB, Simulink, Octave. 
 
+PHYSICS
+
+Heat and mass balances, 
 
 COMPUTER VISION
 
 MAINTENANCE
-Diagnostics, Prognostics, Remaining Useful Life (RUL) prediction, Asset Management, 
+Diagnostics, Prognostics, Remaining Useful Life (RUL) prediction, Asset Management, eMaintenance, 
 
+INDUSTRIAL PROCESSES
+Stock Preparation Plant, 
+
+OTHER
+autonomous aerial vehicles, mobile robots, path planning, 
