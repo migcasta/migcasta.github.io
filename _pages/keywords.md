@@ -73,7 +73,7 @@ MAINTENANCE
 Diagnostics, Prognostics, Remaining Useful Life (RUL) prediction, Asset Management, eMaintenance, 
 
 INDUSTRIAL PROCESSES
-Stock Preparation Plant, 
+Stock Preparation Plant, Pulp Refining, Secondary Heating Systems, HVAC systems, walking beam furnace, bark boiler, 
 
 OTHER
-autonomous aerial vehicles, mobile robots, path planning, 
+autonomous aerial vehicles, mobile robots, path planning, tactical matchng
