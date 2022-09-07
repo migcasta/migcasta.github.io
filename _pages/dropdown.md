@@ -8,6 +8,6 @@ children:
     - title: Rubik
       permalink: /rubik/
     - title: divider
-    - title: skating
+    - title: Skating
       permalink: /skating/
 ---
