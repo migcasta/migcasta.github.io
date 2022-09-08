@@ -21,7 +21,13 @@ State Machines, Petri Nets, game theory, Markov Chains,
 
 ASSETS AMD INFRASTRUCTURE
 
-Rolling stock, off-road trucks, catenary infrastructure, railway track, railway crossings, pulp refiners, stock preparation plant, bark boiler, secondary heating systems, rotary air heat exchangers, mining drill rigs, HVAC systems
+Railway: Rolling stock, off-road trucks, catenary infrastructure (doppers, masts, ...), track, railway crossings
+
+Pulp & paper:  pulp refiners, stock preparation plant, bark boiler, secondary heating systems
+
+Mining:  rotary air heat exchangers for ventilation, mining drill rigs, support systems such as rockbolts, aerial drones
+
+Health: HVAC systems for hospitals
 
 
 MACHINE LEARNING & AI
