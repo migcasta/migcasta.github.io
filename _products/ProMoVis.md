@@ -5,5 +5,5 @@ description: Process Modeling and Visualization. A Tool for Control Structure Se
 importance: 1
 category: prototypes and tools
 redirect: https://sourceforge.net/projects/promovis/
-img: assets/img/promovis.png
+img: assets/img/ProMoVisPoster.png
 ---
