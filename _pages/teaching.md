@@ -1,9 +1,9 @@
 ---
 layout: page
 title: teaching
-nav: true
+nav: false
 nav_order: 5
-dropdown: true
+dropdown: false
 children: 
     - title: Teaching Experience
       permalink: /TeacherPortfolio/
