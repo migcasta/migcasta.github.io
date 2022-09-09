@@ -28,3 +28,13 @@ I've had major participation in a variety of  [products, innovations and tools](
 
 
 I'm proud of my hobbies, which are based on striving for incremental improvements and which challenge me both physically and mentally. Don't ask me about any of them or I will try to hook you in. 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IVA100.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
