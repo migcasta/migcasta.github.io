@@ -16,7 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have a strong passion for data science both in work and in personal life. I strive to create value from data and use it in real life situations. My main strength is to understand challenges and translate them into data science solutions.
+I have a strong passion for data science both in work and in personal life. I strive to create value from data and use it in real life situations. 
+>My main strength is to understand challenges and translate them into data science solutions.
 
  Check my "work" and "fun" [projects](/projects/) for more information on my expertise. As alternative, you may check my [keywords](/keywords/) . 
  
