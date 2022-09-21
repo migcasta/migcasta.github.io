@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: Skating
       permalink: /skating/
+    - title: divider
+    - title: Model Hobbies
+      permalink: /ModelHobbies/       
 ---
