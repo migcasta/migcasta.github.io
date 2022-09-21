@@ -75,7 +75,7 @@
 
 "Patwardhan":  
   - firstname: ["Amit"]
-    url:         https://www.ltu.se/staff/a/amipat-1.121105?l=en
+    url:         https://scholar.google.com/citations?hl=en&user=4V8eZUYAAAAJ
 
 "Thaduri":  
   - firstname: ["Adithya"]
@@ -101,5 +101,7 @@
 "Torres Farinha": 
   - firstname: ["José"]
     url:     https://scholar.google.pt/citations?hl=pt-PT&user=jzTzby4AAAAJ&view_op=list_works&sortby=pubdate
+  
+
 
 
