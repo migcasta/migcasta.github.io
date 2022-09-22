@@ -13,17 +13,9 @@ I like a variety of Model Hobbies, such as building dioramas and painting miniat
 One afternoon when my 3 years old child was sick, I decided to drive him through his first diorama. The results 2 hours later were fabulous. 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Diorama1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Diorama2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Diorama3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Diorama.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 
