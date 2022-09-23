@@ -15,7 +15,7 @@ Cubing is a very rewarding hobby which also fills a lot of gaps in your daily li
 
 > My most recent achievement is to solve Rubik's cube blindfolded using Old Pochmann's mehtod. 
 
-I am still practicing and I can consistently solve it 2 out of 3 times. After you memorize the cube and put the blindfold, it takes more than 500 moves to solve it. So it is really easy to mess it up. 
+I am still practicing blindfolded solves, and I can consistently solve it 2 out of 3 times. After you memorize the cube and put the blindfold, it takes more than 500 moves to solve it. So it is really easy to mess it up. 
 
 Here is a video of my first blindfolded solve. 
 
