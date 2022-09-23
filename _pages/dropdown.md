@@ -12,5 +12,9 @@ children:
       permalink: /skating/
     - title: divider
     - title: Model Hobbies
-      permalink: /ModelHobbies/       
+      permalink: /ModelHobbies/  
+    - title: divider  
+    - title: Anti-gravity Yoga
+      permalink: /AirYoga/     
+      
 ---
