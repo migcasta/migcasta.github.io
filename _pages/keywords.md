@@ -74,7 +74,7 @@ differential equations, partial differential equations (PDE), linearization, Vol
 
 ---
 PROGRAMMIN LANGUATES, EDITORS AND FRAMEWORKS
-Python, TensorFlow, keras, PyTorch, SQL, html, MATLAB, Octave, C++, C#, Atom, Latex, Visual Studio Code, Unity
+Python, TensorFlow, keras, PyTorch, SQL, html, MATLAB, Simulink, Octave, C++, C#, Atom, Latex, Visual Studio Code, Unity
 
 ---
 OPTIMIZATION
@@ -84,7 +84,7 @@ Convex Optimization, Assignment Problems, Integer Programmin, Large-scale Optimi
 ---
 CONTROL ENGINEERING
 
-LTI systems, PID, Input-Output Selection, Control Structure Selection, Control Configuration Selection,  Multivariable Control, Non-linear Control, Kalman Filtering, System Identification in Time Domain, System Identification in Frequency Domain, Non-linear System Identification, Large-scale processes, Robust Control, Non-linear Control, MATLAB, Simulink, Octave. 
+LTI systems, PID, Input-Output Selection, Control Structure Selection, Control Configuration Selection,  Multivariable Control, Non-linear Control, Kalman Filtering, System Identification in Time Domain, System Identification in Frequency Domain, Non-linear System Identification, Large-scale processes, Robust Control, Non-linear Control.
 
 ---
 PHYSICS
