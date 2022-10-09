@@ -3,7 +3,7 @@ layout: page
 title: RTPS
 description: Development and adoption of Real-Time Prognosis System (RTPS) for cost effective safe operation of mobile machinery, show-cased demonstration of dumper fleet
 img: assets/img/RTPS.PNG
-importance: 2022
+importance: 1
 category: work
 ---
 

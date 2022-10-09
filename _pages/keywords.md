@@ -38,7 +38,8 @@ MACHINE LEARNING & AI
 
 Explainable Learning, Expert Systems,  algorithms, big data, data-driven decission making, data analytics, Natural Language Processing (NLP), model performance/quality  evaluation, baselines, human-machine interaction, Predictive Analytics. 
 
-
+---
+EXTENDED REALITY (XR)
 Augmented Reality (AR), Virtual Reality (VR)
 
 ---
@@ -72,13 +73,8 @@ MATHEMATICS
 differential equations, partial differential equations (PDE), linearization, Volterra Series, statistical analysis, differential geometry, 
 
 ---
-CLOUD SYSTEMS
-
-Azure, 
-
----
 PROGRAMMIN LANGUATES, EDITORS AND FRAMEWORKS
-TensorFlow, Python, SQL, html, MATLAB, Octave, C++, Atom, Latex, Visual Studio Code
+Python, TensorFlow, keras, PyTorch, SQL, html, MATLAB, Octave, C++, C#, Atom, Latex, Visual Studio Code, Unity
 
 ---
 OPTIMIZATION
