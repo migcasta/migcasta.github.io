@@ -36,7 +36,7 @@ Health: HVAC systems for hospitals
 ---
 MACHINE LEARNING & AI
 
-Explainable Learning, Expert Systems,  algorithms, big data, data-driven decission making, data analytics, Natural Language Processing (NLP), model performance/quality  evaluation, baselines, human-machine interaction, 
+Explainable Learning, Expert Systems,  algorithms, big data, data-driven decission making, data analytics, Natural Language Processing (NLP), model performance/quality  evaluation, baselines, human-machine interaction, Predictive Analytics. 
 
 
 Augmented Reality (AR), Virtual Reality (VR)
@@ -69,7 +69,7 @@ LIDAR, Ultrasounds, GPS, time-series, imagery, streey level imagery, text logs,
 
 ---
 MATHEMATICS
-differential equations, partial differential equations (PDE), linearization, Volterra Series, statistical analysis
+differential equations, partial differential equations (PDE), linearization, Volterra Series, statistical analysis, differential geometry, 
 
 ---
 CLOUD SYSTEMS
@@ -100,7 +100,7 @@ COMPUTER VISION
 
 ---
 MAINTENANCE
-Diagnostics, Prognostics, Remaining Useful Life (RUL) prediction, Asset Management, eMaintenance, 
+Diagnostics, Prognostics and Health Management (PHM), Remaining Useful Life (RUL) prediction, Asset Management, eMaintenance, Prescriptive Analytics. 
 
 ---
 INDUSTRIAL PROCESSES
