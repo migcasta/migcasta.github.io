@@ -15,7 +15,7 @@ measuring  displacement  at  distinct  points,  or  using  visual  observations.
 
 With the progress of measurement technologies, the current paradigm for investigating mine stability focuses on the use of a variety of measurement technologies ranging from e.g. images, lidar, radar, ultrasounds, and so on ... 
 
-This project focues on the study of Lidar technologies. Current LIDAR technology enables 3D scanning of sections of excavation for monitoring deformation by comparison with subsequent scans.  
+> This project focues on the study of Lidar technologies for investigating mining stability. Current LIDAR technology enables 3D scanning of sections of excavation for monitoring deformation by comparison with subsequent scans.  
 
 
 
