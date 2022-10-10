@@ -50,6 +50,7 @@ Augmented Reality (AR), Virtual Reality (VR)
 EXPERIMENTAL DESIGN
 
 factorial design, experimental design for (non)linear multivariate dynamic systems (white noise, steps, impulse, multisine, ..)
+
 ---
 UNSUPERVISED LEARNING
 
