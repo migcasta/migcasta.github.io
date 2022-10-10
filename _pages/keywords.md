@@ -103,6 +103,8 @@ Heat and mass balances,
 ---
 COMPUTER VISION
 
+Object Boundary Tracing (e.g. Moore Neighborhood), Background/object separation (e.g. Otsu Thresholding), Convolutional Neural Networks, Image Dataset Augmentation, Image Classification, Object Detection, Image Segmentation, Hough Transform, one-shot learning, Automatic Feature Extraction, feature engineering, Vanishing Point Estimation, Context-based Image Retrieval. 
+
 ---
 MAINTENANCE
 
