@@ -2,7 +2,7 @@
 layout: page
 title: IDQ4LCC
 description: Improving Data Quality for LCC Prediction Using Cloud Computing
-img: assets/img/IDQ4LCC.png
+img: assets/img/IDQ4LCC.PNG
 importance: 2
 category: work
 ---
