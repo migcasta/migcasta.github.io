@@ -50,7 +50,6 @@ Greco-roman sources:
 - Meno. Plato
 - The Bacchae. Euripides
 - Oedipus Rex. Sophocles
-- Oedipus at Colonus. Sophocles
 
 Abrahamic Souces
 - Bible
