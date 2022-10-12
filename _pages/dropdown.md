@@ -16,5 +16,7 @@ children:
     - title: divider  
     - title: Anti-gravity Yoga
       permalink: /AirYoga/     
-      
+    - title: divider
+    - title: Mythology
+      permalink: /Mythology/  
 ---
