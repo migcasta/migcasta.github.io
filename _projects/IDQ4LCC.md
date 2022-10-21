@@ -7,9 +7,13 @@ importance: 2
 category: work
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IDQ4LCC.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-
-The aim of IDQfLCC project is to:
+The aim of the project IDQfLCC project is to:
 - Develop a framework for data quality analytics of MAXIMO database,
 the framework covers three essential aspects: diagnostic, prediction
 and prescription.
@@ -20,11 +24,8 @@ and prescription.
 - Build a generic software considering real operational parameters as a
 prototype demonstration in mining operational environment.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DrillRig.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    IDQ4LCC used real-life data from drill manufactured by Atlas Copco and in operation at Tara mine (Dublin).
+<div class="publications">
+
+{% bibliography -f papers -q @*[title=A generic framework for data quality analytics]* %}
+
 </div>
