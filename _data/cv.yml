@@ -11,22 +11,29 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Engineering in the subject of Automatic Control 
       institution: Luleå University of Technology, Sweden
-      year: 1905
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Thesis-> Practical Tools for the Configuration of Control Structures.
+
+    - title: Licentiate in Engineering in the subject of Automatic Control 
+      institution: Luleå University of Technology, Sweden
+      year: 2010
+      description:
+        - Thesis-> Robust Methods for Control Structure Selection in Paper Making Processes
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
         - Description 1.
         - Description 2.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
 - title: Experience
   type: time_table
