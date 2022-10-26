@@ -11,94 +11,78 @@
 - title: Education
   type: time_table
   contents:
+    - title: Specialization in Generative Adversarial Networks (GANs)
+      institution: DeepLearning.AI
+      year: 2022
     - title: Ph.D. in Engineering in the subject of Automatic Control 
       institution: Luleå University of Technology, Sweden
       year: 2012
-      description:
-        - Thesis-> Practical Tools for the Configuration of Control Structures.
+
 
     - title: Licentiate in Engineering in the subject of Automatic Control 
       institution: Luleå University of Technology, Sweden
       year: 2010
-      description:
-        - Thesis-> Robust Methods for Control Structure Selection in Paper Making Processes
 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Summer School in Measuring, Modelling and Simulation of (Non)linear Dynamic Systems
+      institution: Vrije Universiteit Brussel, Belgium
+      year: 2009   
+    - title: M.Sc. in Industrial Engineering. Electronic Systems and Automatic Control. 
+      institution: University of Oviedo, Spain
+      year: 2008
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Senior Lecturer in Operation and Maintenance
+      institution: Luleå University of Technology, Sweden
+      year: 2018 - now
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Visiting Researcher
+      institution: University of Oviedo, Spain
+      year: 2022-2023
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Board member and co-owner
+      institution: OProVAT EF
+      year: 2012-2018
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Postdoctoral Researcher in Control Engineering
+      institution: Luleå University of Technology, Sweden
+      year: 2016-2017
+
+    - title: Visiting Researcher
+      institution: Iran University of Science and Technology (IUST)
+      year: 2016
+
+    - title: Postdoctoral Researcher in Signal Processing
+      institution: Luleå University of Technology, Sweden
+      year: 2013-2015
+
+    - title: Ph.D. student in Control Engineering
+      institution: Luleå University of Technology, Sweden
+      year: 2008-2012
+    
+    - title: Research Engineer
+      institution: Luleå University of Technology, Sweden
+      year: 2007
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://sourceforge.net/projects/promovis/">ProMoVis</a>
+      year: 2010-2018
+      description: A software tool for Process Modeling and Visualization
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2013
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        Best Ph.D. thesis award in the region of  Norrbotten, Sweden. 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Rubik cubing, Rollerblading, Model Hobbies, Anti-gravity Yoga, Mythology.
