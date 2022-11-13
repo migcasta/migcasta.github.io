@@ -28,7 +28,7 @@ I have a strong passion for data science both in work and in personal life. I st
 I've had major participation in a variety of  [products, innovations and tools](/products/). These relate e.g. to computer vision, LIDAR processing, design of industrial control systems,  ultrasonic NDT,  and data quality analytics.  
 
 
-I'm proud of my hobbies, which are based on striving for incremental improvements and which challenge me both physically and mentally. Don't ask me about any of them or I will try to hook you in. 
+I'm proud of my [hobbies](/hobbies/), which are based on striving for incremental improvements and which challenge me both physically and mentally. Don't ask me about any of them or I will try to hook you in. 
 
 
 <div class="row">

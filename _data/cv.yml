@@ -7,28 +7,36 @@
       value: 31 December 1981
     - name: Languages
       value: Spanish, English, Swedish
+    - name: Citizenship
+      value: Spanish, Swedish
 
 - title: Education
   type: time_table
   contents:
-    - title: Specialization in Generative Adversarial Networks (GANs)
+    - title:  <a href="https://coursera.org/share/7994338f6ef6fe14a63a353811c203a2">  Specialization in Generative Adversarial Networks (GANs) </a>
       institution: DeepLearning.AI
       year: 2022
-    - title: Ph.D. in Engineering in the subject of Automatic Control 
+    - title: <a href="../assets/pdf/PHD_diploma.pdf"> Ph.D. in Engineering in the subject of Automatic Control </a>
       institution: Luleå University of Technology, Sweden
       year: 2012
+      items: Thesis. <a href="https://www.diva-portal.org/smash/get/diva2:991488/FULLTEXT01.pdf">Practical Tools for the Configuration of Control Structures </a> 
 
 
-    - title: Licentiate in Engineering in the subject of Automatic Control 
+    - title: <a href="../assets/pdf/LicentiateDiploma.pdf"> Licentiate in Engineering in the subject of Automatic Control </a>
       institution: Luleå University of Technology, Sweden
+      items: Thesis. <a href="http://www.diva-portal.org/smash/get/diva2:999229/FULLTEXT01.pdf"> Robust Methods for Control Structure Selection in Paper Making Processes </a>
       year: 2010
 
     - title: Summer School in Measuring, Modelling and Simulation of (Non)linear Dynamic Systems
       institution: Vrije Universiteit Brussel, Belgium
       year: 2009   
-    - title: M.Sc. in Industrial Engineering. Electronic Systems and Automatic Control. 
+
+    - title: <a href="../assets/pdf/EngineeringDiploma.pdf"> M.Sc. in Industrial Engineering. Electronic Systems and Automatic Control.  </a>
       institution: University of Oviedo, Spain
       year: 2008
+      items: 
+        - Exchange Student under the Erasmus Programme. Luleå University of Technology, Sweden, 2006-2007
+        - Thesis. <a href="https://www.diva-portal.org/smash/get/diva2:1016216/FULLTEXT01.pdf"> Sensitivity of Variable Pairing in Multivariable Process Control to Model Uncertainties </a>
 
 - title: Experience
   type: time_table
@@ -68,16 +76,19 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://sourceforge.net/projects/promovis/">ProMoVis</a>
+    - title: <a href="https://sourceforge.net/projects/promovis/">ProMoVis. A software tool for Process Modeling and Visualization</a>
       year: 2010-2018
-      description: A software tool for Process Modeling and Visualization
 
-- title: Honors and Awards
+- title: Personal Honors and Awards
   type: time_table
   contents:
     - year: 2013
       title: 
-        Best Ph.D. thesis award in the region of  Norrbotten, Sweden. 
+        <a href="https://www.ltu.se/research/subjects/control/Nyheter-Aktuellt/Doktor-i-reglerteknik-far-forskarpris-1.111105?l=en">  Best Ph.D. thesis award in the region of  Norrbotten, Sweden </a>  
+
+
+        
+
 
 - title: Thesis Supervision
   type: time_table
@@ -112,4 +123,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Rubik cubing, Rollerblading, Model Hobbies, Anti-gravity Yoga, Mythology.
+    - <u>Hobbies:</u>  <a href="../rubik/"> Rubik cubing </a>, Rollerblading, Model Hobbies, Anti-gravity Yoga, Mythology.

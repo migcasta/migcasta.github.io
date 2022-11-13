@@ -3,7 +3,7 @@ layout: page
 title: OPTi
 description: Optimization of District Heating & Cooling Systems. EU project
 img: assets/img/OPTi_logo_small.png
-redirect: https://www.opti2020.eu/
+redirect: https://cordis.europa.eu/project/id/649796
 importance: 3
 category: work
 ---
